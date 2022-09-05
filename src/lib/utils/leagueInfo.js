@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 // export const managers = [
 //     // {
-//     //   "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//     //   "roster": Smegatron,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
 //     //   "name": "Mark",
 //     //   "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //     //   "location": "Newbury, UK", // (optional)
