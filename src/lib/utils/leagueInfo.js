@@ -9,7 +9,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 export const homepageText = `
   <p>Founded in 2022, Can You Throw It? brought together fourteen of the top fantasy football players from a number of different leagues.</p>
   <p>With a focus on competirive but fun play, CYTI league is a stern test with team having to field a large roster to compete each week, coupled with a small bench to make it the ultimate fantasy test.</p>
-  <p>The league was created to try and encourage as many moves, trades, banter and gloating as possible, with weekly articles on game previews and reviews and trade analysis its as an amersive experince as possible.</p>
+  <p>The league was created to try and encourage as many moves, trades, banter and gloating as possible, with weekly articles on game previews, reviews and trade analysis its as an amersive experince as possible.</p>
   <p>Who will take home the coverted CYTI Cup and the ultimate prize of the CYTI ring? It going to be a wild ride finding out!</p>
   
 `;
